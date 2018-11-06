@@ -1,5 +1,5 @@
-# This repsitory is meant to be my personal playground
-* Welcome stranger, you have just visited my test repository. 
+# This repository is meant to be my personal playground
+* Welcome stranger, you have just landed on my test repository. 
 * Feel free to play along! 
 * :sparkles:
 
