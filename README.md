@@ -24,7 +24,7 @@ qool-awk-loop | make its usefulness visible | code snippets highly commented; ch
 qool-c-loop | small games | highly commented code; cheet sheets on wiki
 qool-springboot-loop | strategy game | server side code of a university project
 qool-angular2-loop | strategy game | client side code of a university project
-qool-linux-loop | show advantages | wiki page for excellent tools
+qool-linux-loop | show advantages | wiki page for excellent tools; cheet cheets of useful unix functions;
 qool-latex-loop | templates also of markdown | wiki with tools and reference cards, code snippets highly commented
 qool-git-loop | git in use | wiki with use cases; links to excellent online books and refereces
 
