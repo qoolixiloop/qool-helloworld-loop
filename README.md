@@ -1,7 +1,7 @@
 
 ## Welcome Dear Human Friend!  
 * you are visiting the qoolixiloop repository overwiew
-* check out below on how you can profit from this account
+* read on if you like to find out how you can profit from this account
 * enjoy!
 * :sparkles:
 
@@ -58,48 +58,48 @@
 
 qoolixiloop repositories            | Purpose                                  | Content                                                          | Status              |
 :---------------------------------- | :--------------------------------------- | :--------------------------------------------------------------- | :------------------ |
-:fleur_de_lis: qool-cv-loop         | :fleur_de_lis: github is no cv hub       | :fleur_de_lis: readme: there will be something else.             | not started yet     |
-:fleur_de_lis:                      | :fleur_de_lis: direct link for employers | :fleur_de_lis: code:  short description of my other repos.       |                     |
-:fleur_de_lis:                      | :fleur_de_lis: repos as work samples     | :fleur_de_lis: wiki:  short description of my other repos.       |                     |
-:loop: qool-linux-loop              | :loop: useful tools                      | :loop: readme: wiki page for excellent tools.                    | 
-:loop:                              | :loop:                                   | :loop: code: cheet cheets of useful unix functions.              |
-:loop:                              | :loop:                                   | :loop: wiki: cheet cheets of useful unix functions.              |
-:sparkle: qool-tmux-looop           | :sparkle: tmux as multiplex ide          | :sparkle: readme:  tmux startup scripts.                         |
-:sparkle:                           | :sparkle:                                | :sparkle: code:  wiki pages of tmux cheet cheets.                |  
-:sparkle:                           | :sparkle:                                | :sparkle: wiki: pairprogramming instructions.                    |
-:fleur_de_lis: qool-vim-loop        | :fleur_de_lis: 5 minute install of vim   | :fleur_de_lis: readme: use cases; wiki with cheets sheets.       |
-:fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: code: use cases; wiki with cheets sheets.         |
-:fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: wiki: use cases; wiki with cheets sheets.         |
-:loop: qool-vimscript-loop          | :loop: explay its purpose                | :loop: readme: share vim environment.                            | 
-:loop:                              | :loop:                                   | :loop: code: .vimrc highly commented.                            | 
-:loop:                              | :loop:                                   | :loop: wiki: .vim no plugins, only own code.                     |
-:sparkle: qool-bash-loop            | :sparkle: show its usefulness            | :sparkle: readme: scripts to automate stuff.                     | 
-:sparkle:                           | :sparkle:                                | :sparkle: code: highly commented snippets.                       |
-:sparkle:                           | :sparkle:                                | :sparkle: wiki: wiki with cheet sheets.                          |
-:fleur_de_lis: qool-awk-loop        | :fleur_de_lis: show its usefulness               | :fleur_de_lis: readme: code snippets highly commented.   | 
-:fleur_de_lis:                      | :fleur_de_lis:                                   | :fleur_de_lis: code: cheet sheets on wiki.               |
-:fleur_de_lis:                      | :fleur_de_lis:                                   | :fleur_de_lis: wiki: cheet sheets on wiki.               |
-:loop: qool-python-loop             | :loop: code collection                | :loop: readme: tutorials with wiki and code.                        | 
-:loop:                              | :loop:                                | :loop: code: vim as a python gui.                                   |
-:loop:                              | :loop:                                | :loop: wiki: vim as a python gui.                                   |
-:sparkle: qool-java-loop            | :sparkle: design patterns           | :sparkle: readme: tutorials with code and wiki.                       | 
-:sparkle:                           | :sparkle:                           | :sparkle: code: instructions to make the code run on vim.             |
-:sparkle:                           | :sparkle:                           | :sparkle: wiki: instructions to make the code run on vim.             |
-:fleur_de_lis: qool-springboot-loop | :fleur_de_lis: strategy game sever side  | :fleur_de_lis: readme: server side code of a university project. |
-:fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: readme: server side code of a university project. |
-:fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: readme: server side code of a university project. |
-:loop: qool-angular2-loop           | :loop: strategy game client side | :loop: code: client side code of a university project.                   |
-:loop:                              | :loop:                           | :loop: wiki: client side code of a university project.                   |
-:loop:                              | :loop:                           | :loop: wiki: client side code of a university project.                   |
-:sparkle: qool-c-loop               | :sparkle: small games                    | :sparkle: readme: highly commented code.                         | 
-:sparkle:                           | :sparkle:                                | :sparkle: code: cheet sheets on wiki.                            |
-:sparkle:                           | :sparkle:                                | :sparkle: wiki: cheet sheets on wiki.                            |
-:fleur_de_lis: qool-git-loop        | :fleur_de_lis: git in use                | :fleur_de_lis: readme: none                                      |
-:fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: code: to online books and tables.                 |
-:fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: wiki: links to online books and tables.           |
-:loop: qool-markup-loop             | :loop: markdown templates             | :loop: readme: md files                                             | 
-:loop:                              | :loop:                                | :loop: code: links                                                  |
-:loop:                              | :loop:                                | :loop: wiki: links                                                  |
+:fleur_de_lis: qool-cv-loop         | :fleur_de_lis: github is no cv hub       | :fleur_de_lis: readme: account summary and links                 | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis: direct link for employers | :fleur_de_lis: code:   none                                      | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis: repos as work samples     | :fleur_de_lis: wiki:  short description my other repos           | not started yet     |
+:loop: qool-linux-loop              | :loop: list useful tools                 | :loop: readme: summary and links to wiki pages                   | not started yet     |
+:loop:                              | :loop:                                   | :loop: code: none                                                | not started yet     |
+:loop:                              | :loop:                                   | :loop: wiki: short descriptions and links to used tool           | not started yet     |
+:sparkle: qool-tmux-looop           | :sparkle: tmux as multiplex ide          | :sparkle: readme:  tmux startup scripts                          | not started yet     |
+:sparkle:                           | :sparkle: share startup script           | :sparkle: code: bash startup scripts for tmux                    | not started yet     |
+:sparkle:                           | :sparkle:                                | :sparkle: wiki: tmux pairprogramming instruction                 | not started yet     |
+:fleur_de_lis: qool-vim-loop        | :fleur_de_lis: easy install              | :fleur_de_lis: readme: easy install instructions                 | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis: share my vim              | :fleur_de_lis: code: .vim and .vimrc                             | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: wiki: how to use it efficiently                   | not started yet     |
+:loop: qool-vimscript-loop          | :loop: explain its uses                  | :loop: readme: why you should learn at least the basic           | not started yet     |
+:loop:                              | :loop: share my code                     | :loop: code: .vimrc and some basic functions                     | not started yet     |
+:loop:                              | :loop:                                   | :loop: wiki: enough to understand the .vimrc stuff               | not started yet     |
+:sparkle: qool-bash-loop            | :sparkle: use cases                      | :sparkle: readme: summary and links                              | not started yet     |
+:sparkle:                           | :sparkle: reference                      | :sparkle: code: some useful scripts and snippets                 | not started yet     |
+:sparkle:                           | :sparkle: share my code collection       | :sparkle: wiki: reference tables                                 | not started yet     |
+:fleur_de_lis: qool-awk-loop        | :fleur_de_lis: use cases                 | :fleur_de_lis: readme: language summary and links                | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis: reference                 | :fleur_de_lis: code: some useful scripts and snippets            | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: wiki: reference tables                            | not started yet     |
+:loop: qool-python-loop             | :loop: share my code collection          | :loop: readme: summary and links                                 | not started yet     |
+:loop:                              | :loop:                                   | :loop: code: useful scripts and code snippets                    | not started yet     |
+:loop:                              | :loop:                                   | :loop: wiki: none                                                | not started yet     |
+:sparkle: qool-java-loop            | :sparkle: design patterns                | :sparkle: readme: summary and links                              | not started yet     |
+:sparkle:                           | :sparkle: share my code                  | :sparkle: code: code samples of standard libraries               | not started yet     |
+:sparkle:                           | :sparkle:                                | :sparkle: wiki: language reference tables and design patterns    | not started yet     |
+:fleur_de_lis: qool-springboot-loop | :fleur_de_lis: strategy game sever side  | :fleur_de_lis: readme:                                           | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis: share our code            | :fleur_de_lis: code:                                             | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis: architecture              | :fleur_de_lis: wiki:                                             | not started yet     |
+:loop: qool-angular2-loop           | :loop: strategy game client side         | :loop: readme:                                                   | not started yet     |
+:loop:                              | :loop: share our code                    | :loop: code:                                                     | not started yet     |
+:loop:                              | :loop: architecture                      | :loop: wiki:                                                     | not started yet     |
+:sparkle: qool-c-loop               | :sparkle: share my code                  | :sparkle: readme:                                                | not started yet     |
+:sparkle:                           | :sparkle:                                | :sparkle: code:                                                  | not started yet     |
+:sparkle:                           | :sparkle:                                | :sparkle: wiki:                                                  | not started yet     |
+:fleur_de_lis: qool-git-loop        | :fleur_de_lis: git in use                | :fleur_de_lis: readme: none                                      | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis: referece                  | :fleur_de_lis: code: to online books and tables                  | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: wiki: links to online books and tables            | not started yet     |
+:loop: qool-markup-loop             | :loop: markdown templates                | :loop: readme: short summary and links                           | not started yet     | 
+:loop:                              | :loop:                                   | :loop: code: markdown files                                      | not started yet     |
+:loop:                              | :loop:                                   | :loop: wiki: none                                                | not started yet     |
 
 -----------------------
 qoolixiloop, 6.Nov.2018
