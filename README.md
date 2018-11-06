@@ -15,13 +15,13 @@ Other repositories   | Purpose                  | Content                       
 ---------------------| ------------------------ | ------------------------------------------------------------------------- |
 qool-cv-loop         | github is no cv hub      | :gem: nevertheless there will be one. <pre>              </pre> :fountain:
 .                    | .                        | :gem: short description of my other repos. <pre>         </pre> :cyclone:
-qool-tmux-loop       | benefit of tmux          | :gem: tmux startup scripts.................................... :fountain: 
+qool-tmux-loop       | benefit of tmux          | <pre> :gem: tmux startup scripts............................... :fountain: 
 .                    | .                        | :gem: wiki pages of tmux cheet cheets......................... :cyclone: 
-.                    | .                        | :gem: pairprogramming instructions............................ :whale: 
+.                    | .                        | :gem: pairprogramming instructions............................ :whale: </pre>
 qool-vim-loop        | vim and vimscript        | :gem: use cases; wiki with cheets sheets...................... :fountain:
-qool-.vimrc-loop     | explay its purpose       | :gem: share vim environment................................... :fountain: 
+<pre> qool-.vimrc-loop     | explay its purpose       | :gem: share vim environment................................... :fountain: 
 .                    | .                        | :gem: .vimrc highly commented................................. :cyclone: 
-.                    | .                        | :gem: .vim no plugins, only own code.......................... :whale:
+.                    | .                        | :gem: .vim no plugins, only own code.......................... :whale:  <pre>
 qool-bash-loop       | show its usefulness      | :gem: scripts to automate stuff............................... :fountain: 
 .                    | .                        | :gem: highly commented snippets............................... :cyclone:
 .                    | .                        | :gem: wiki with cheet sheets.................................. :whale:
