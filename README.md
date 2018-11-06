@@ -16,7 +16,7 @@
 
 
 ### Why could you profit from qoolixiloop's repositories?
-* because you are a rich window or apple guy
+* because you are a rich microsoft or apple guy
   * but could do with a free open source solution (use linux)
 * because you want to work simultanueously on different projects
   * but you prefer to have your open files structured (use tmux) 
