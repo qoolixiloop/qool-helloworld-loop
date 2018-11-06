@@ -13,8 +13,8 @@
 
 Other repositories   | Purpose                  | Content                                                                   |
 ---------------------| ------------------------ | ------------------------------------------------------------------------- |
-qool-cv-loop         | github is no cv hub      | :gem: nevertheless there will be one. <pre>              <\pre> :fountain:
-.                    | .                        | :gem: short description of my other repos. <pre>         <\pre> :cyclone:
+qool-cv-loop         | github is no cv hub      | :gem: nevertheless there will be one. <pre>              </pre> :fountain:
+.                    | .                        | :gem: short description of my other repos. <pre>         </pre> :cyclone:
 qool-tmux-loop       | benefit of tmux          | :gem: tmux startup scripts.................................... :fountain: 
 .                    | .                        | :gem: wiki pages of tmux cheet cheets......................... :cyclone: 
 .                    | .                        | :gem: pairprogramming instructions............................ :whale: 
