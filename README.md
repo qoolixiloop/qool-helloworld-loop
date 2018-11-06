@@ -13,11 +13,11 @@
 
 Other repositories   | Purpose                  | Content                                                                   |
 ---------------------| ------------------------ | ------------------------------------------------------------------------- |
-qool-cv-loop         | github is no cv hub      | :fleur_de_lis: ~ ~ there will be something else. ~ ~  |
-.                    | .                        | :fleur_de_lis: ~ ~  short description of my other repos. ~ ~ |
-qool-tmux-loop       | benefit of tmux          | :cyclone: ~ ~  tmux startup scripts. ~ ~  |
-.                    | .                        | :cyclone: ~ ~  wiki pages of tmux cheet cheets. ~ ~ | 
-.                    | .                        | :cyclone: ~ ~ pairprogramming instructions. ~ ~ |
+:fleur_de_lis: ~ ~ qool-cv-loop | :fleur_de_lis: ~ ~github is no cv hub | :fleur_de_lis: ~ ~ there will be something else. ~ ~  |
+:fleur_de_lis: ~ ~ | :fleur_de_lis: ~ ~ | :fleur_de_lis: ~ ~  short description of my other repos. ~ ~ |
+:cyclone: ~ ~ qool-tmux-loop | :cyclone: ~ ~ benefit of tmux | :cyclone: ~ ~  tmux startup scripts. ~ ~  |
+:cyclone: ~ ~ | :cyclone: ~ ~ | :cyclone: ~ ~  wiki pages of tmux cheet cheets. ~ ~ | 
+:cyclone: ~ ~ | :cyclone: ~ ~ | :cyclone: ~ ~ pairprogramming instructions. ~ ~ |
 qool-vim-loop        | vim and vimscript        | :gem: ~ ~use cases; wiki with cheets sheets. ~ ~  |
 qool-.vimrc-loop     | explay its purpose       | :whale: ~ ~ share vim environment. ~ ~ | 
 .                    | .                        | :whale: ~ ~ .vimrc highly commented. ~ ~ | 
