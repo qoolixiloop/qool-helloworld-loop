@@ -7,6 +7,7 @@
 * qool-Mission-loop: qo>>make_great_qoolixiloop_great_again<<op
 * qool-Repository-loop: qo>>his_very_own_wiki_page<<op
 * qool-Disclaimer-loop: qo>>free_content_free<<op
+* :revolving_hearts:
  
 
 Other repositories | Purpose | Content |
