@@ -13,9 +13,9 @@
 
 Other repositories   | Purpose                  | Content                                                                   |
 ---------------------| ------------------------ | ------------------------------------------------------------------------- |
-qool-cv-loop         | github is no cv hub      | :gem: ~ ~  nevertheless there will be one. ~ ~  |
-.                    | .                        | :cyclone: ~ ~  short description of my other repos. ~ ~ |
-qool-tmux-loop       | benefit of tmux          | :gem: ~ ~  tmux startup scripts. ~ ~  |
+qool-cv-loop         | github is no cv hub      | :fleur_de_lis: ~ ~ there will be something else. ~ ~  |
+.                    | .                        | :fleur_de_lis: ~ ~  short description of my other repos. ~ ~ |
+qool-tmux-loop       | benefit of tmux          | :fleur_de_lis: ~ ~  tmux startup scripts. ~ ~  |
 .                    | .                        | :cyclone: ~ ~  wiki pages of tmux cheet cheets. ~ ~ | 
 .                    | .                        | :fountain: ~ ~ pairprogramming instructions. ~ ~ |
 qool-vim-loop        | vim and vimscript        | :gem: ~ ~use cases; wiki with cheets sheets. ~ ~  |
