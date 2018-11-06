@@ -14,12 +14,12 @@
 Other repositories | Purpose | Content |
 --------------------- | ------------------------------------- | ----------------------------------------------------------- |
 qool-cv-loop | github is no cv hub | * nevertheless there will be one; 
-* short description of my other repos;
+                                   | * short description of my other repos;
 qool-tmux-loop | benefit of tmux  | * tmux startup scripts; wiki pages of tmux cheet cheets; 
-* pairprogramming instructions; 
+                                  | * pairprogramming instructions; 
 qool-vim-loop | vim and vimscript  | * use cases; wiki with cheets sheets;
 qool-.vimrc-loop | explay its purpose | * share vim environment; 
-* .vimrc highly commented; 
+                                    |* .vimrc highly commented; 
 * .vim no plugins, only own code;
 qool-bash-loop | show its usefulness | * scripts to automate stuff; 
 * highly commented snippets; wiki with cheet sheets;
