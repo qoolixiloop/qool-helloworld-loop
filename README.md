@@ -13,10 +13,10 @@
 
 Other repositories   | Purpose                  | Content                                                                   |
 ---------------------| ------------------------ | ------------------------------------------------------------------------- |
-qool-cv-loop         | github is no cv hub      | :gem: ~~ nevertheless there will be one. ~~~~~~~~~~~~~~~~~~~~ :fountain:
-~~~~~~~~~~~~~~~~~~~~ | ~~~~~~~~~~~~~~~~~~~~~~~~ | :gem: ~~ short description of my other repos. ~~~~~~~~~~~~~~~~~~ :cyclone:
-qool-tmux-loop       | benefit of tmux          | :gem: ~~ tmux startup scripts. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ :fountain: 
-.                    | .                        | :gem: wiki pages of tmux cheet cheets......................... :cyclone: 
+qool-cv-loop         | github is no cv hub      | :gem: ~~ nevertheless there will be one. ~~~~~~~~~~~~~~~~~~~~ :fountain:  |
+~                    | ~                        | :gem: ~~ short description of my other repos. ~~~~~~~~~~~~~~~~~ :cyclone: |
+qool-tmux-loop       | benefit of tmux          | :gem: ~~ tmux startup scripts. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ :fountain: |
+~                    | ~                        | :gem: wiki pages of tmux cheet cheets......................... :cyclone: 
 .                    | .                        | :gem: pairprogramming instructions............................ :whale:
 qool-vim-loop        | vim and vimscript        | :gem: use cases; wiki with cheets sheets...................... :fountain:
 qool-.vimrc-loop     | explay its purpose       | :gem: share vim environment................................... :fountain: 
