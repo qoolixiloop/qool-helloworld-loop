@@ -1,3 +1,4 @@
+# qool-helloworld-loop
 
 ## Welcome Dear Human Friend!  
 * you are visiting the qoolixiloop repository overwiew
@@ -14,7 +15,7 @@
 * :revolving_hearts:
 
 
-### Why could you profit from qoolixiloop's repositories
+### Why could you profit from qoolixiloop's repositories?
 * because you are a rich window or apple guy
   * but could do with a free open source solution (use linux)
 * because you want to work simultanueously on different projects
@@ -85,15 +86,15 @@ qoolixiloop repositories            | Purpose                                  |
 :sparkle: qool-java-loop            | :sparkle: design patterns                | :sparkle: readme: summary and links                              | not started yet     |
 :sparkle:                           | :sparkle: share my code                  | :sparkle: code: code samples of standard libraries               | not started yet     |
 :sparkle:                           | :sparkle:                                | :sparkle: wiki: language reference tables and design patterns    | not started yet     |
-:fleur_de_lis: qool-springboot-loop | :fleur_de_lis: strategy game sever side  | :fleur_de_lis: readme:                                           | not started yet     |
-:fleur_de_lis:                      | :fleur_de_lis: share our code            | :fleur_de_lis: code:                                             | not started yet     |
-:fleur_de_lis:                      | :fleur_de_lis: architecture              | :fleur_de_lis: wiki:                                             | not started yet     |
-:loop: qool-angular2-loop           | :loop: strategy game client side         | :loop: readme:                                                   | not started yet     |
-:loop:                              | :loop: share our code                    | :loop: code:                                                     | not started yet     |
-:loop:                              | :loop: architecture                      | :loop: wiki:                                                     | not started yet     |
-:sparkle: qool-c-loop               | :sparkle: share my code                  | :sparkle: readme:                                                | not started yet     |
-:sparkle:                           | :sparkle:                                | :sparkle: code:                                                  | not started yet     |
-:sparkle:                           | :sparkle:                                | :sparkle: wiki:                                                  | not started yet     |
+:fleur_de_lis: qool-springboot-loop | :fleur_de_lis: strategy game sever side  | :fleur_de_lis: readme: summary                                   | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis: share our code            | :fleur_de_lis: code: project code                                | not started yet     |
+:fleur_de_lis:                      | :fleur_de_lis: architecture              | :fleur_de_lis: wiki: none                                        | not started yet     |
+:loop: qool-angular2-loop           | :loop: strategy game client side         | :loop: readme: summary                                           | not started yet     |
+:loop:                              | :loop: share our code                    | :loop: code: project code  and demos                             | not started yet     |
+:loop:                              | :loop: architecture                      | :loop: wiki: none                                                | not started yet     |
+:sparkle: qool-c-loop               | :sparkle: share my code                  | :sparkle: readme: summary                                        | not started yet     |
+:sparkle:                           | :sparkle:                                | :sparkle: code: some scripts                                     | not started yet     |
+:sparkle:                           | :sparkle:                                | :sparkle: wiki: none                                             | not started yet     |
 :fleur_de_lis: qool-git-loop        | :fleur_de_lis: git in use                | :fleur_de_lis: readme: none                                      | not started yet     |
 :fleur_de_lis:                      | :fleur_de_lis: referece                  | :fleur_de_lis: code: to online books and tables                  | not started yet     |
 :fleur_de_lis:                      | :fleur_de_lis:                           | :fleur_de_lis: wiki: links to online books and tables            | not started yet     |
