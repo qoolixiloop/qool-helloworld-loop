@@ -19,7 +19,7 @@
 * because you are a rich microsoft or apple guy
   * but could do with a free open source solution (use linux)
 * because you want to work simultanueously on different projects
-  * but you prefer to have your open files structured (use tmux) 
+  * but you prefer to have your open files organized (use tmux) 
 * because you code in several languages
   * but you prefer one single development environment (use vim)
 * because vim lets you write code in python, bash, vimscript, java, ...
