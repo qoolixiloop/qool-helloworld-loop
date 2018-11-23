@@ -7,7 +7,7 @@
 
 
 ### ⏳ TL;DR 
-> This site is all about you, getting started with &&& . If you like to find out, what tools and information I prepared for you, then please click on the button below.
+> This site is all about you, being properly welcomed by **qoolixiloop** . If you like to find out, what tools and information I prepared for you, then please click on the button below.
 >
 > <details>
 > <summary> 📖  read more... </summary>
